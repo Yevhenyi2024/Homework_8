@@ -3,5 +3,5 @@ function capitalizeStrings(words) {
   }
   
   const words = ["apple", "banaNA", "kiWi", "ORANGE"];
-  console.log(capitalizeStrings(words)); // ["Apple", "Banana", "Kiwi", "Orange"]
+  console.log(capitalizeStrings(words)); 
   
